@@ -1,0 +1,2 @@
+# OC-XPS13-7390
+OpenCore-Dell-XPS13-7390-2-in-1 [WIP]
