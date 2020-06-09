@@ -5,7 +5,7 @@
 - Keyboard/Trackpad
 - Battery Information
 - Intel Bluetooth
-- Thunderbolt
+- Thunderbolt (no Hot-Plug)
 - HiDPI Screen
 
 **What doesn't work (yet)**
