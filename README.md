@@ -9,7 +9,6 @@
 - HiDPI Screen
 
 **What doesn't work (yet)**
-- Intel AX200 WiFi
-- Brightness control
-- Touch screen
-- Intel Iris Plus G7 (recognized no framebuffer loaded)
+- Intel AX200 WiFi (ITLWM works)
+- Touch screen (VooDooI2C doesn't recognize my controller)
+- Intel Iris Plus G7 (Starting but GIOSCREENLOCKSTATE 3 initiates before I get into MacOS) & Brightness control
